@@ -1,32 +1,40 @@
 <h1 align="center">Hi 👋, I'm Mohammad Adil Shaik</h1>
-<h3 align="center">Aspiring Web Developer | Trailhead Explorer | Lifelong Learner</h3>
+<h3 align="center">Aspiring Full-Stack Web Developer | Trailhead Explorer | Cloud & AI Enthusiast</h3>
 
 ---
 
-🎓 I'm a passionate and driven student currently pursuing a degree in **Computer Science**, with a strong interest in **Web Development** and **Salesforce ecosystem**.  
-🚀 I build user-friendly, visually appealing websites that focus on great user experience.  
-🔭 I’m actively looking for internship or project-based opportunities to apply my skills in real-world scenarios.
+🎓 I’m currently pursuing a degree in **Computer Science**, deeply passionate about **web development**, **cloud platforms**, and **building user-centric applications**.  
+🚀 With hands-on experience across full-stack technologies and tools, I enjoy solving real-world problems through code.  
+🌱 I'm actively exploring advanced cloud tools and AI/ML concepts alongside UI/UX design practices.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages:** HTML, CSS, JavaScript  
-- **Frameworks:** React, Node.js, Apex Framework, Visualforce  
-- **Tools & Platforms:** REST/SOAP APIs, Salesforce CLI, Data Loader, Git, Debugging, Agile  
-- **Soft Skills:** Problem-solving, Critical Thinking, Fast Learner, Self-Starter  
+### 👨‍💻 Languages
+`Python` `Java` `C++` `TypeScript` `JavaScript` `HTML5` `PHP` `CSS3` `SQL`
+
+### 🧰 Frameworks & Libraries
+`React.js` `Node.js` `Express.js` `Django` `AngularJS`  
+`Flask` `Bootstrap` `Tailwind CSS` `Flexbox` `CSS Grid` `Apex Framework`
+
+### 🔗 APIs & Tools
+`REST APIs` `Postman` `AWS SDK` `Azure API Management`  
+`Salesforce CLI` `Git` `GitHub` `Docker` `CI/CD` `Tableau`
+
+### 🗄️ Databases
+`MongoDB` `MySQL` `DynamoDB` `PostgreSQL`
+
+### ☁️ Platforms & Concepts
+`AWS` `Azure` `Trailhead` `Unix Shell`  
+`Security & Permissions` `Version Control` `Agile Methodology`  
+`Responsive Design` `Debugging` `Data Modeling`  
+`Distributed Storage` `Web Services`  
+`AI & ML Foundations` `Pipeline Development` `Operating Systems`
 
 ---
 
-## 📫 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohammad-adil-shaik)
-[![Trailhead](https://img.shields.io/badge/-Trailhead-00A1E0?style=flat&logo=salesforce)](https://trailhead.salesforce.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![Adil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-adil-shaik&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-adil-shaik&layout=compact&theme=tokyonight)
@@ -37,8 +45,23 @@
 
 ---
 
-## 🧠 Passion & Goals
+## 🌐 Connect with Me
 
-> I'm always excited to learn, build, and grow!  
-> If you're hiring or mentoring, or have exciting web dev opportunities — let's connect! 🙌
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-adil-shaik)
+[![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce)](https://trailhead.salesforce.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
 
+---
+
+## 🎯 Goals & Vision
+
+> I'm always exploring new technologies and seeking opportunities to grow professionally.  
+> If you're looking for a highly motivated, technically curious, and self-driven developer — I’d love to connect!
+
+---
+
+### ✨ Thanks for stopping by!
+
+> _“Learning never exhausts the mind.”_ – Leonardo da Vinci  
+Feel free to explore my projects and contributions. Happy Coding! 👨‍💻
