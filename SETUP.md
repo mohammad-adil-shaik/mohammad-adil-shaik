@@ -77,4 +77,3 @@ the snake workflow, so the animation stays current.
 
 ---
 
-Built as a premium, recruiter-focused profile. No broken links, no deprecated widgets.
