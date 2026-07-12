@@ -60,6 +60,61 @@
 <br clear="right"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        PROFESSIONAL EXPERIENCE                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Professional Experience
+
+<table>
+<tr>
+<td width="130" align="center" valign="middle">
+<img width="96" src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/exp-current.svg" alt="Current role" />
+</td>
+<td valign="top">
+
+### Software Engineer &nbsp;<img src="https://img.shields.io/badge/CharityAuctions-7aa2f7?style=flat-square&labelColor=1a1b27" alt="CharityAuctions" />
+**📍 US (Remote)** &nbsp;·&nbsp; \`Jul 2025 – Present\`
+
+- 🚀 Built and shipped production features for the **Auction 2.0** platform using **React.js, Next.js, Node.js, and Python**; applied graph-based data structures and caching (Redis) — **↑ 35% customer engagement** & **↓ 40% API response time**.
+- 🧱 Designed scalable **RESTful APIs and microservices** in Java, Node.js & Python using OOP and distributed-system principles to support **100,000+ users**; debugged production bidding flows via systematic algorithmic analysis.
+- 🤝 Collaborated in **Agile/Scrum** sprints; automated nonprofit onboarding and integrated **AI-assisted item categorization** — **↓ 30% manual ops effort**.
+- ✅ Maintained **85%+ test coverage** via unit/integration/regression testing on **CI/CD (GitHub Actions)**; led code reviews & authored technical docs.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="130" align="center" valign="middle">
+<img width="96" src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/exp-prev.svg" alt="Previous role" />
+</td>
+<td valign="top">
+
+### Software Engineer &nbsp;<img src="https://img.shields.io/badge/Creative_Central-bb9af7?style=flat-square&labelColor=1a1b27" alt="Creative Central" />
+**📍 India** &nbsp;·&nbsp; \`Jun 2022 – Jun 2024\`
+
+- 🧩 Built full-stack apps with **React.js, Angular, Node.js, Express.js, Flask & Django**; designed & optimized RESTful APIs in Python & PHP with dynamic programming and caching — **scaled to 15,000+ users**.
+- 🗄️ Integrated **PostgreSQL, MySQL & MongoDB**; containerized microservices with **Docker**; deployed on **AWS & Azure**; built **CI/CD (GitHub Actions, Jenkins)** reaching **80%+ coverage** & **↓ 45% defects**.
+- 🎨 Crafted responsive UI in **React.js, Angular, HTML5, CSS3, Bootstrap & Tailwind**; used **TypeScript** for type safety; applied OOP & system-design principles.
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          FEATURED PROJECTS                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Featured Projects
+
+- **[AI Study Buddy](https://github.com/mohammad-adil-shaik/AI-Study-Buddy)** — An AI-powered study assistant that turns notes and documents into summaries, flashcards, and Q&A, helping students learn faster and revise smarter.
+
+- **[Chrono Pulse](https://github.com/mohammad-adil-shaik/Chrono_Pulse)** — A modern time-tracking and productivity app that logs activity, visualizes focus patterns, and surfaces insights to help you make the most of your day.
+
+- **[GVHMR](https://github.com/mohammad-adil-shaik/GVHMR)** — A deep-learning pipeline for Generative Video Human Mesh Recovery, reconstructing accurate 3D human motion from video using computer vision and transformer models.
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                            CURRENT FOCUS                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -89,49 +144,6 @@
 - 🧠 **System design** & distributed-systems patterns
 - 🕸️ **Graph-based data structures** & caching (Redis)
 - ☁️ **Cloud-native** delivery on **AWS & Azure**
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        PROFESSIONAL EXPERIENCE                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Professional Experience
-
-<table>
-<tr>
-<td width="130" align="center" valign="middle">
-<img width="96" src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/exp-current.svg" alt="Current role" />
-</td>
-<td valign="top">
-
-### Software Engineer &nbsp;<img src="https://img.shields.io/badge/CharityAuctions-7aa2f7?style=flat-square&labelColor=1a1b27" alt="CharityAuctions" />
-**📍 Chicago, IL (Remote)** &nbsp;·&nbsp; \`Jul 2025 – Present\`
-
-- 🚀 Built and shipped production features for the **Auction 2.0** platform using **React.js, Next.js, Node.js, and Python**; applied graph-based data structures and caching (Redis) — **↑ 35% customer engagement** & **↓ 40% API response time**.
-- 🧱 Designed scalable **RESTful APIs and microservices** in Java, Node.js & Python using OOP and distributed-system principles to support **10,000+ users**; debugged production bidding flows via systematic algorithmic analysis.
-- 🤝 Collaborated in **Agile/Scrum** sprints; automated nonprofit onboarding and integrated **AI-assisted item categorization** — **↓ 30% manual ops effort**.
-- ✅ Maintained **85%+ test coverage** via unit/integration/regression testing on **CI/CD (GitHub Actions)**; led code reviews & authored technical docs.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="130" align="center" valign="middle">
-<img width="96" src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/exp-prev.svg" alt="Previous role" />
-</td>
-<td valign="top">
-
-### Software Engineer &nbsp;<img src="https://img.shields.io/badge/Creative_Central-bb9af7?style=flat-square&labelColor=1a1b27" alt="Creative Central" />
-**📍 Remote** &nbsp;·&nbsp; \`Jun 2022 – Jun 2024\`
-
-- 🧩 Built full-stack apps with **React.js, Angular, Node.js, Express.js, Flask & Django**; designed & optimized RESTful APIs in Python & PHP with dynamic programming and caching — **scaled to 15,000+ users**.
-- 🗄️ Integrated **PostgreSQL, MySQL & MongoDB**; containerized microservices with **Docker**; deployed on **AWS & Azure**; built **CI/CD (GitHub Actions, Jenkins)** reaching **80%+ coverage** & **↓ 45% defects**.
-- 🎨 Crafted responsive UI in **React.js, Angular, HTML5, CSS3, Bootstrap & Tailwind**; used **TypeScript** for type safety; applied OOP & system-design principles.
 
 </td>
 </tr>
@@ -220,107 +232,6 @@ Software Practices:   Full SDLC, Agile/Scrum, System Design, Data Structures & A
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          FEATURED PROJECTS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Featured Projects
-
-<table>
-<tr>
-<td width="80" align="center" valign="middle"><h1>⚡</h1></td>
-<td valign="top">
-
-### DevPulse — Real-Time Developer Productivity Dashboard
-Full-stack SaaS dashboard aggregating **GitHub, Jira & CI/CD** metrics via **event-driven microservices** (Kafka, Node.js, GraphQL, Redis), deployed on **AWS** with **Docker & Kubernetes**.
-
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-\`📉 Sprint reporting: hours → 2 min\` &nbsp; \`🔁 −60% context-switching\` &nbsp; \`👥 500+ users\`
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="80" align="center" valign="middle"><h1>🤖</h1></td>
-<td valign="top">
-
-### SnapRecruit — AI-Powered Resume & Job Matching Platform
-Full-stack platform (React.js, Django, PostgreSQL, AWS Lambda) delivering **AI-driven match scores**. Integrated **OpenAI API** with a **PyTorch transformer** for semantic similarity; applied **A\*** & dynamic programming for ranked recommendations.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-\`🎯 91% match relevance\` &nbsp; \`👥 1,200+ beta users\`
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="80" align="center" valign="middle"><h1>🧬</h1></td>
-<td valign="top">
-
-### GVHMR — Generative Video Human Mesh Recovery
-**AI/ML pipeline** in Python & PyTorch integrating **deep learning, computer vision & transformer models** for video-to-3D human mesh reconstruction. Containerized with Docker; deployed on **AWS EC2**.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-
-\`📐 87% pose accuracy\` &nbsp; \`⚡ 3× throughput vs baseline\`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://adilshaik.in">
-  <img src="https://img.shields.io/badge/🌐_Explore_all_projects_on_my_portfolio-adilshaik.in-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="Portfolio" />
-</a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                              EDUCATION                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/edu-cap.svg" width="34"> &nbsp;Education
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top"><h3>🎓 UNC Charlotte</h3></td>
-<td width="50%" align="center" valign="top"><h3>🎓 G. Pulla Reddy Engineering College</h3></td>
-</tr>
-<tr>
-<td align="center" valign="top"><b>Master of Science · Computer Science</b></td>
-<td align="center" valign="top"><b>Bachelor of Technology · Computer Science</b> <i>(JNTU)</i></td>
-</tr>
-<tr>
-<td align="center" valign="middle"><img src="https://img.shields.io/badge/GPA-4.0_/_4.0-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="GPA" /></td>
-<td align="center" valign="middle"><img src="https://img.shields.io/badge/CGPA-8.05_/_10-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="CGPA" /></td>
-</tr>
-<tr>
-<td align="center" valign="top">📍 Charlotte, NC &nbsp;·&nbsp; 🗓️ <b>May 2026</b></td>
-<td align="center" valign="top">📍 Kurnool, India &nbsp;·&nbsp; 🗓️ <b>May 2024</b></td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                            CERTIFICATIONS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -331,21 +242,21 @@ Full-stack platform (React.js, Django, PostgreSQL, AWS Lambda) delivering **AI-d
 <td width="33%" align="center" valign="top">
 
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" /><br/>
-**AWS Certified**<br/>Solutions Architect<br/>
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/6d867218812749d4a94bba2b6c7179f4">**AWS Certified**<br/>Solutions Architect</a><br/>
 <img src="https://img.shields.io/badge/Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="SAA" />
 
 </td>
 <td width="33%" align="center" valign="top">
 
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" /><br/>
-**AWS Machine Learning**<br/>Foundations<br/>
+<a href="https://www.credly.com/badges/3d36ffd8-7230-4538-a80a-40381bf8c439">**AWS Machine Learning**<br/>Foundations</a><br/>
 <img src="https://img.shields.io/badge/Certified-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="ML" />
 
 </td>
 <td width="33%" align="center" valign="top">
 
 <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" /><br/>
-**Microsoft Azure**<br/>Fundamentals<br/>
+<a href="https://www.credly.com/badges/b08a8201-ce78-4581-9469-cfdd042c3545">**Microsoft Azure**<br/>Fundamentals</a><br/>
 <img src="https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ900" />
 
 </td>
@@ -407,11 +318,34 @@ Led cross-functional coordination for a **700+ attendee event** across **10+ sta
 | Defect reduction via automated testing | **−45%** |
 | Users supported across systems | **25,000+** |
 | Students mentored | **150+** |
-| Sprint reporting time reduced (DevPulse) | **hours → 2 min** |
-| AI job-match relevance (SnapRecruit) | **91%** |
 | Pose-estimation accuracy (GVHMR) | **87%** |
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              EDUCATION                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/edu-cap.svg" width="34"> &nbsp;Education
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top"><h3>🎓 UNC Charlotte</h3></td>
+<td width="50%" align="center" valign="top"><h3>🎓 G. Pulla Reddy Engineering College</h3></td>
+</tr>
+<tr>
+<td align="center" valign="top"><b>Master of Science · Computer Science</b></td>
+<td align="center" valign="top"><b>Bachelor of Technology · Computer Science</b> <i>(JNTU)</i></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/GPA-4.0_/_4.0-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="GPA" /></td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/CGPA-8.05_/_10-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="CGPA" /></td>
+</tr>
+<tr>
+<td align="center" valign="top">📍 Charlotte, NC &nbsp;·&nbsp; 🗓️ <b>May 2026</b></td>
+<td align="center" valign="top">📍 Kurnool, India &nbsp;·&nbsp; 🗓️ <b>May 2024</b></td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                            LET'S CONNECT                                  -->
@@ -453,8 +387,3 @@ Led cross-functional coordination for a **700+ attendee event** across **10+ sta
   alt="footer"
 />
 
-<div align="center">
-
-<sub>⭐ From <a href="https://github.com/mohammad-adil-shaik">Mohammad Adil Shaik</a> — designed like a landing page, engineered like production.</sub>
-
-</div>
