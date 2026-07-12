@@ -4,30 +4,14 @@
 <!--                     Tokyo Night · Premium Profile                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ────────────  ANIMATED HEADER WAVE + BREATHING GLOW NAME  ──────────────── -->
+<!-- ────────────  ANIMATED HEADER — BIG NAME + BREATHING GLOW  ──────────────── -->
 <a href="https://adilshaik.in">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=180&section=header&animation=fadeIn"
-    alt="header wave"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=230&section=header&text=Mohammad%20Adil%20Shaik&fontSize=52&fontColor=c0caf5&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Backend%20%7C%20Cloud%20%7C%20AI&descSize=18&descAlignY=60&descColor=a9b1d6"
+    alt="Mohammad Adil Shaik"
   />
 </a>
-
-<div align="center">
-
-<!-- Breathing / glowing animated name (SVG) -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=46&duration=1&pause=99999999&color=7AA2F7&background=00000000&center=true&vCenter=true&width=900&height=80&lines=MOHAMMAD+ADIL+SHAIK"
-  alt="Mohammad Adil Shaik"
-/>
-
-<!-- The glow/breathing effect is applied via the header capsule + this pulsing accent line -->
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:bb9af7&height=3&width=520&animation=twinkling"
-  alt="glow underline"
-/>
-
-</div>
 
 <!-- ─────────────────────────────  TYPING SVG  ───────────────────────────── -->
 <div align="center">
@@ -54,7 +38,6 @@
 
 <br/>
 
-<!-- ─────────────────────────────  QUICK FACTS  ──────────────────────────── -->
 <div align="center">
 
   <img src="https://img.shields.io/badge/📍_USA-24283b?style=flat-square&labelColor=1a1b27" alt="Location" />
@@ -72,7 +55,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/background.svg" alt="dev illustration" />
+<img align="right" width="420" src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/background.svg" alt="dev illustration" />
 
 > **Software Engineer with 3+ years of experience** building scalable full-stack
 > and backend applications across the complete SDLC.
@@ -80,7 +63,7 @@
 - 🧩 Proven track record designing **RESTful APIs, microservices, and cloud-deployed systems** in **Java, Spring, Python, Node.js, React, and AWS**.
 - 🧠 Strong in **data structures, algorithms, OOP, and system design**.
 - ⚙️ Experienced in **Agile/Scrum, CI/CD, unit & integration testing, code reviews**, and cross-functional collaboration.
-- 🎓 **MS in Computer Science, GPA 4.0/4.0** — UNC Charlotte *(Graduated May 2026)*.
+- 🎓 **MS in Computer Science, GPA 4.0/4.0** — UNC Charlotte *(May 2026)*.
 - 🚀 Focused on delivering **high-quality, maintainable software** in fast-paced environments.
 
 <br clear="right"/>
@@ -93,7 +76,6 @@
 
 <div align="center">
 
-<!-- Flagship highlight banner -->
 <a href="https://adilshaik.in">
   <img src="https://img.shields.io/badge/🚀_NOW_BUILDING-Auction_2.0_·_Scaling_to_100K%2B_Users-7aa2f7?style=for-the-badge&labelColor=1a1b27&color=bb9af7" alt="Now building" />
 </a>
@@ -127,22 +109,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Professional Experience
 
-```mermaid
-timeline
-    title Career Journey
-    Jun 2022 - Jun 2024 : Software Engineer @ Creative Central
-    Jul 2025 - Present   : Software Engineer @ CharityAuctions
-```
-
 <table>
 <tr>
-<td align="center" width="120" valign="top">
-
-<br/>
-
-**🟣**
-**\`NOW\`**
-
+<td width="130" align="center" valign="middle">
+<img width="96" src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/exp-current.svg" alt="Current role" />
 </td>
 <td valign="top">
 
@@ -160,13 +130,8 @@ timeline
 
 <table>
 <tr>
-<td align="center" width="120" valign="top">
-
-<br/>
-
-**🟪**
-**\`2022–24\`**
-
+<td width="130" align="center" valign="middle">
+<img width="96" src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/exp-prev.svg" alt="Previous role" />
 </td>
 <td valign="top">
 
@@ -215,6 +180,66 @@ timeline
 
 </div>
 
+<details open>
+<summary><b>📋 Classic Skills View</b></summary>
+
+<br/>
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Databases & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</details>
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                          GITHUB STATISTICS                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -223,30 +248,11 @@ timeline
 
 <div align="center">
 
-<a href="https://github.com/mohammad-adil-shaik">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammad-adil-shaik&show_icons=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b27" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/mohammad-adil-shaik">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-adil-shaik&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&langs_count=8" alt="Top Languages" />
-</a>
+<img height="180" src="https://streak-stats.demolab.com/?user=mohammad-adil-shaik&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5" alt="GitHub Streak" />
 
-</div>
-
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com/?user=mohammad-adil-shaik&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-adil-shaik&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mohammad-adil-shaik&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 </div>
 
@@ -272,10 +278,9 @@ timeline
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Featured Projects
 
-<!-- ── Project 1 ── -->
 <table>
 <tr>
-<td width="60" align="center" valign="middle"><h1>⚡</h1></td>
+<td width="80" align="center" valign="middle"><h1>⚡</h1></td>
 <td valign="top">
 
 ### DevPulse — Real-Time Developer Productivity Dashboard
@@ -294,10 +299,9 @@ Full-stack SaaS dashboard aggregating **GitHub, Jira & CI/CD** metrics via **eve
 </tr>
 </table>
 
-<!-- ── Project 2 ── -->
 <table>
 <tr>
-<td width="60" align="center" valign="middle"><h1>🤖</h1></td>
+<td width="80" align="center" valign="middle"><h1>🤖</h1></td>
 <td valign="top">
 
 ### SnapRecruit — AI-Powered Resume & Job Matching Platform
@@ -316,10 +320,9 @@ Full-stack platform (React.js, Django, PostgreSQL, AWS Lambda) delivering **AI-d
 </tr>
 </table>
 
-<!-- ── Project 3 ── -->
 <table>
 <tr>
-<td width="60" align="center" valign="middle"><h1>🧬</h1></td>
+<td width="80" align="center" valign="middle"><h1>🧬</h1></td>
 <td valign="top">
 
 ### GVHMR — Generative Video Human Mesh Recovery
@@ -349,30 +352,24 @@ Full-stack platform (React.js, Django, PostgreSQL, AWS Lambda) delivering **AI-d
 <!--                              EDUCATION                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/UWtDU9jhLp1zdX7pQz/giphy.gif" width="28"> &nbsp;Education
+## <img src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/edu-cap.svg" width="34"> &nbsp;Education
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
-
-### 🎓 UNC Charlotte
-**Master of Science · Computer Science**
-
-<img src="https://img.shields.io/badge/GPA-4.0_/_4.0-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="GPA" />
-
-📍 Charlotte, NC &nbsp; · &nbsp; 🗓️ Graduated **May 2026**
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🎓 G. Pulla Reddy Engineering College
-**Bachelor of Technology · Computer Science** *(JNTU)*
-
-<img src="https://img.shields.io/badge/CGPA-8.05_/_10-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="CGPA" />
-
-📍 Kurnool, India &nbsp; · &nbsp; 🗓️ **May 2024**
-
-</td>
+<td width="50%" align="center" valign="top"><h3>🎓 UNC Charlotte</h3></td>
+<td width="50%" align="center" valign="top"><h3>🎓 G. Pulla Reddy Engineering College</h3></td>
+</tr>
+<tr>
+<td align="center" valign="top"><b>Master of Science · Computer Science</b></td>
+<td align="center" valign="top"><b>Bachelor of Technology · Computer Science</b> <i>(JNTU)</i></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/GPA-4.0_/_4.0-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="GPA" /></td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/CGPA-8.05_/_10-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="CGPA" /></td>
+</tr>
+<tr>
+<td align="center" valign="top">📍 Charlotte, NC &nbsp;·&nbsp; 🗓️ <b>May 2026</b></td>
+<td align="center" valign="top">📍 Kurnool, India &nbsp;·&nbsp; 🗓️ <b>May 2024</b></td>
 </tr>
 </table>
 
@@ -416,13 +413,15 @@ Full-stack platform (React.js, Django, PostgreSQL, AWS Lambda) delivering **AI-d
 
 <table>
 <tr>
-<td width="60" align="center" valign="middle"><h1>👨‍🏫</h1></td>
+<td width="130" align="center" valign="middle">
+<img width="96" src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/lead-mentor.svg" alt="Mentor" />
+</td>
 <td valign="top">
 
 ### Graduate Teaching Assistant &nbsp;<img src="https://img.shields.io/badge/UNC_Charlotte-bb9af7?style=flat-square&labelColor=1a1b27" alt="UNCC" />
 **AI & Software Systems** &nbsp;·&nbsp; \`Aug 2025 – May 2026\`
 
-Mentored **75+ graduate students** in AI algorithms (A\*, minimax, BFS/DFS, DP), system design, SDLC & Agile; ran code reviews and evaluated capstones across **two graduate-level courses**.
+Mentored **150+ students** in AI algorithms (A\*, minimax, BFS/DFS, DP), system design, SDLC & Agile; ran code reviews and evaluated capstones across **two graduate-level courses**.
 
 </td>
 </tr>
@@ -430,7 +429,9 @@ Mentored **75+ graduate students** in AI algorithms (A\*, minimax, BFS/DFS, DP),
 
 <table>
 <tr>
-<td width="60" align="center" valign="middle"><h1>🎤</h1></td>
+<td width="130" align="center" valign="middle">
+<img width="96" src="https://raw.githubusercontent.com/mohammad-adil-shaik/mohammad-adil-shaik/main/assets/lead-event.svg" alt="Event" />
+</td>
 <td valign="top">
 
 ### Event Organizer &nbsp;<img src="https://img.shields.io/badge/TEDxGPREC-f7768e?style=flat-square&labelColor=1a1b27" alt="TEDx" />
@@ -458,7 +459,7 @@ Led cross-functional coordination for a **700+ attendee event** across **10+ sta
 | Test coverage maintained (CI/CD) | **85%+** |
 | Defect reduction via automated testing | **−45%** |
 | Users supported across systems | **25,000+** |
-| Graduate students mentored | **75+** |
+| Students mentored | **150+** |
 | Sprint reporting time reduced (DevPulse) | **hours → 2 min** |
 | AI job-match relevance (SnapRecruit) | **91%** |
 | Pose-estimation accuracy (GVHMR) | **87%** |
@@ -490,10 +491,6 @@ Led cross-functional coordination for a **700+ attendee event** across **10+ sta
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          PROFESSIONAL QUOTE                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 > ### 💬 *"Great engineering isn't about writing more code —*
@@ -502,10 +499,6 @@ Led cross-functional coordination for a **700+ attendee event** across **10+ sta
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED FOOTER (BREATHING GLOW)                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <img
   width="100%"
