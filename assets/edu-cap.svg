@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img" aria-label="Graduation cap">
+  <!-- mortarboard -->
+  <g>
+    <polygon points="20,8 38,15 20,22 2,15" fill="#7aa2f7"/>
+    <polygon points="20,8 38,15 20,22 2,15" fill="none" stroke="#bb9af7" stroke-width="0.6"/>
+    <path d="M8 17 L8 26 C8 29 14 31 20 31 C26 31 32 29 32 26 L32 17" fill="#24283b" stroke="#7aa2f7" stroke-width="1.2"/>
+    <!-- tassel -->
+    <line x1="38" y1="15" x2="38" y2="24" stroke="#e0af68" stroke-width="1.4">
+      <animateTransform attributeName="transform" type="rotate" values="-8 38 15; 8 38 15; -8 38 15" dur="2.4s" repeatCount="indefinite"/>
+    </line>
+    <circle cx="38" cy="25" r="2" fill="#f7768e">
+      <animateTransform attributeName="transform" type="rotate" values="-8 38 15; 8 38 15; -8 38 15" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
